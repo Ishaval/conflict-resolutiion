@@ -1,5 +1,4 @@
 # conflict-resolutiion
+## This is a subheading created on GitHub
 
-## This is a subheading creates locally
-
-All of this content added to the README file has been added frommy local git repository.
+All of this content added to the readme file has been added from my remote GitHub repository.
